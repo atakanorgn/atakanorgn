@@ -24,7 +24,7 @@ Systems, Network & Tools:
 
 * 🌐 Network Engineering: Deepening my knowledge of network protocols and security through Udemy courses and hands-on labs.
 * 🍓 Raspberry Pi Projects: Configuring Linux-based environments and exploring server-side implementations on embedded devices.
-* ⚙️ *igital Logic: Studying state machines, flip-flops, and binary arithmetic to understand hardware-software interaction.
+* ⚙️ Digital Logic: Studying state machines, flip-flops, and binary arithmetic to understand hardware-software interaction.
 * 🎨 Modern Web: Building responsive web applications using React and Next.js.
 
 ---
