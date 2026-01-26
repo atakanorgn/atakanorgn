@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Atakan.
 
-<!--
-**atakanorgn/atakanorgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a sophomore Computer Engineering** student at Yeditepe University. I am passionate about bridging the gap between low-level system architecture and modern software development.
 
-Here are some ideas to get you started:
+💻 Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages & Core:
+* C / C++: Algorithms, Data Structures, and System Programming (Main focus)
+* Python: Scripting and Automation
+* Verilog / System Design:** Digital Logic Design and Computer Architecture
+
+Web Development:
+* Frontend: React, Next.js, HTML5
+* Backend:  Node.js (Basic)
+
+Systems, Network & Tools:
+* Platforms: Raspberry Pi (IoT & Home Lab experimentation)
+* Networking: TCP/IP, OSI Model, Network Security (Currently taking comprehensive courses 🎓)
+* Tools: Git, VS Code, Linux/Unix Terminal
+
+---
+
+🚀 What I'm currently working on & Learning
+
+* 🌐 Network Engineering: Deepening my knowledge of network protocols and security through Udemy courses and hands-on labs.
+* 🍓 Raspberry Pi Projects: Configuring Linux-based environments and exploring server-side implementations on embedded devices.
+* ⚙️ *igital Logic: Studying state machines, flip-flops, and binary arithmetic to understand hardware-software interaction.
+* 🎨 Modern Web: Building responsive web applications using React and Next.js.
+
+---
+
+
+### 📫 Connect with me
+
+* LinkedIn: [(https://www.linkedin.com/in/atakanorgun/)]
+* Email: [atakanorgun@gmail.com]
