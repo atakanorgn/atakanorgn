@@ -1,36 +1,52 @@
-# Hi there, I'm Atakan.
+# Hi, I'm Atakan
 
-I am a sophomore Computer Engineering** student at Yeditepe University. I am passionate about bridging the gap between low-level system architecture and modern software development.
+I'm a 3rd-year Computer Engineering student at Yeditepe University with a strong interest in network engineering, Linux systems, and hands-on networking.
 
-💻 Tech Stack & Skills
+I enjoy building network topologies, configuring Cisco devices, and experimenting with Linux-based home lab environments.
 
-Languages & Core:
-* C / C++: Algorithms, Data Structures, and System Programming (Main focus)
-* Python: Scripting and Automation
-* Verilog / System Design:** Digital Logic Design and Computer Architecture
+## Tech Stack & Skills
 
-Web Development:
-* Frontend: React, Next.js, HTML5
-* Backend:  Node.js (Basic)
+### Languages
+- C / C++
+- Python
 
-Systems, Network & Tools:
-* Platforms: Raspberry Pi (IoT & Home Lab experimentation)
-* Networking: TCP/IP, OSI Model, Network Security (Currently taking comprehensive courses 🎓)
-* Tools: Git, VS Code, Linux/Unix Terminal
+### Networking
+- TCP/IP and OSI Model
+- IPv4 / IPv6
+- VLANs and Inter-VLAN Routing
+- DHCP
+- NAT / PAT
+- Static and Dynamic Routing
+- STP
+- EtherChannel
+- OSPF
+- Network Security Fundamentals
+- Cisco IOS and CLI
 
----
+### Systems & Tools
+- Linux
+- Raspberry Pi
+- Cisco Packet Tracer
+- Git and GitHub
+- Cursor
+- Obsidian
 
-🚀 What I'm currently working on & Learning
+## Currently Learning
 
-* 🌐 Network Engineering: Deepening my knowledge of network protocols and security through Udemy courses and hands-on labs.
-* 🍓 Raspberry Pi Projects: Configuring Linux-based environments and exploring server-side implementations on embedded devices.
-* ⚙️ Digital Logic: Studying state machines, flip-flops, and binary arithmetic to understand hardware-software interaction.
-* 🎨 Modern Web: Building responsive web applications using React and Next.js.
+I'm currently preparing for the CCNA and improving my networking knowledge through Jeremy's IT Lab, Cisco Packet Tracer labs, and practical topology building.
 
----
+I'm also working with Raspberry Pi and Linux-based home lab environments, including:
 
+- Pi-hole
+- Unbound DNS
+- Local network services
+- Linux server administration
 
-### 📫 Connect with me
+## Current Goal
 
-* LinkedIn: [(https://www.linkedin.com/in/atakanorgun/)]
-* Email: [atakanorgun@gmail.com]
+My current goal is to strengthen my networking and Linux skills, earn the CCNA certification, and gain more hands-on experience through networking projects.
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/atakanorgun/
+- Email: atakanorgun@gmail.com
